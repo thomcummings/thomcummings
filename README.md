@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **thomcummings/thomcummings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Thom Cummings 👋🏼
+# Hi, I'm Thom 👋🏼
 I'm an marketing exec and entrepreneur from the UK. I've the founder of [https://thisisinference.com](Inference) and [https://aptlabs.co](Apt Labs).  
 
 In the past, I've spent 15+ years building go-to-market strategies and high performance marketing teams for tech startups and scaleups (Prolific, Pitch, Grover, SoundCloud). I love crafting world class brands through design and product marketing, scaling creative communities, and implementing data-driven growth strategies. Since 2023, I've been building tools, products, and agents with AI and am now equal parts marketer and product engineer. 
@@ -37,8 +35,8 @@ words go here
  - Mondriandom - 
 
 ## Get in contact
-[mailto:hi@thomcummings.com](📧 Email)
-[https://thisisinference.com](ℹ Inference)
-[https://aptlabs.co](🟠 Apt Labs)
-[https://thomcummings.com](🌐 Personal Website)
-[https://linkedin.com/in/thomcummings](💼 LinkedIn)
+ - [📧 Email](mailto:hi@thomcummings.com]
+ - [https://thisisinference.com](ℹ Inference)
+ - [https://aptlabs.co](🟠 Apt Labs)
+ - [https://thomcummings.com](🌐 Personal Website)
+ - [https://linkedin.com/in/thomcummings](💼 LinkedIn)
