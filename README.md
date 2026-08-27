@@ -35,7 +35,7 @@ words go here
  - Mondriandom - 
 
 ## Get in contact
- - [📧 Email](mailto:hi@thomcummings.com]
+ - [📧 Email](mailto:hi@thomcummings.com)
  - [https://thisisinference.com](ℹ Inference)
  - [https://aptlabs.co](🟠 Apt Labs)
  - [https://thomcummings.com](🌐 Personal Website)
