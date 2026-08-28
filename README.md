@@ -13,30 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Thom 👋🏼
-I'm an marketing exec and entrepreneur from the UK. I've the founder of [https://thisisinference.com](Inference) and [https://aptlabs.co](Apt Labs).  
+I'm an marketing exec and entrepreneur from the UK. I've the founder of [Inference](https://thisisinference.com) and [Apt Labs](Apt Labs).  
 
-In the past, I've spent 15+ years building go-to-market strategies and high performance marketing teams for tech startups and scaleups (Prolific, Pitch, Grover, SoundCloud). I love crafting world class brands through design and product marketing, scaling creative communities, and implementing data-driven growth strategies. Since 2023, I've been building tools, products, and agents with AI and am now equal parts marketer and product engineer. 
+In the past, I've spent 15+ years building go-to-market strategies and high performance marketing teams for tech startups and scaleups (Prolific, Pitch, Grover, SoundCloud). I've craft world class brands, scale creative communities, and implement data-driven growth strategies. Since 2023, I've been building tools, products, and agents with AI and am now equal parts marketer and product engineer. 
 
-Outside of work, you'll find me scheming on projects, taking lots of photos, hiking, biking, longing for my backpack, synthesizing sound, drawing mindlessly, cataloging things into lists, still trying to learn the Theremin and so on...
+Outside of work, you'll find me scheming on projects (music-making tools, art projects) a few of which are detailed here...
 
 ## What I'm working on
 
 ### Inference
-words go here
+Inference is a marketing studio for the AI rebuild, living at the intersection of strategy and systems. I help companies build marketing systems that are worth scaling — positioning, growth architecture, operational infrastructure — so when AI accelerates everything, it's accelerating something good.
 
 ### Apt Labs
-words go here
+apt labs is a product lab building small, opinionated software. Each product starts with a core problem to solve and aims to be genuinely useful on day one. Products are released uncomfortably early to test ideas and iterate fast, with real user feedback. But they are always built with a high degree of craft and attention to detail.
 
 ## Recent projects
- - Mixtape Club - A free and open source version of XXX
- - Inference Plugins -
- - Strata -
- - Carta - 
- - Mondriandom - 
+ - Inference Plugins - coming soon
+ - Strata - a playable (and self-playable) norns script modelled after the Vestax Faderboard
+ - Carta - a topographical wavetable synth
+ - Mondriandom - a random Mondrian-inspired picture on every refresh
 
 ## Get in contact
  - [📧 Email](mailto:hi@thomcummings.com)
- - [https://thisisinference.com](ℹ Inference)
- - [https://aptlabs.co](🟠 Apt Labs)
- - [https://thomcummings.com](🌐 Personal Website)
- - [https://linkedin.com/in/thomcummings](💼 LinkedIn)
+ - [💼 LinkedIn](https://linkedin.com/in/thomcummings)
