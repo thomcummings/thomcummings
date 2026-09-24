@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Thom 👋🏼
-I'm an marketing exec and entrepreneur from the UK. I've the founder of [Inference](https://thisisinference.com) and [Apt Labs](https://aptlabs.co).  
+I'm an marketing exec and entrepreneur from the UK. I'm the founder of [Inference](https://thisisinference.com) and [Apt Labs](https://aptlabs.co).  
 
 In the past, I've spent 15+ years building go-to-market strategies and high performance marketing teams for tech startups and scaleups (Prolific, Pitch, Grover, SoundCloud). I've craft world class brands, scale creative communities, and implement data-driven growth strategies. Since 2023, I've been building tools, products, and agents with AI and am now equal parts marketer and product engineer. 
 
